@@ -2,7 +2,7 @@ package java_09_07_21;
 
 public class BubbleSort {
     public static void main(String[] args) {
-        int[] zahlen = {11, 7, 90, 16, 18, 49, 1};
+        int[] zahlen = {10000,5,6661,55,23,2154,21,1,100};
         int[] sortiert = sort(zahlen);
 
         for (int i = 0; i < sortiert.length; i++) {
