@@ -15,4 +15,4 @@ class weihnachtsbaum{
     }
 }
 
-new weihnachtsbaum(5)
+new weihnachtsbaum(4)
